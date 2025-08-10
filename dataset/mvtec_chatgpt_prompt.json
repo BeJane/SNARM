@@ -1,0 +1,341 @@
+{
+    "bottle": {
+        "good": [
+            "100 phrases describing a bottle without industrial defect, all in lowercase,with bottle?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the bottle, all in lowercase,with bottle?"
+        ],
+        "broken_large": [
+            "100 phrases describing the industrial broken_large defect on the bottle, all in lowercase,with bottle?"
+        ],
+        "broken_small": [
+            "100 phrases describing the industrial broken_small defect on the bottle, all in lowercase,with bottle?"
+        ],
+        "contamination": [
+            "100 phrases describing the industrial contamination defect on the bottle, all in lowercase,with bottle?"
+        ]
+    },
+    "cable": {
+        "good": [
+            "100 phrases describing a cable without industrial defect, all in lowercase,with cable?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the cable, all in lowercase,with cable?"
+        ],
+        "bent_wire": [
+            "100 phrases describing the industrial bent_wire defect on the cable, all in lowercase,with cable?"
+        ],
+        "cable_swap": [
+            "100 phrases describing the industrial cable_swap defect on the cable, all in lowercase,with cable?"
+        ],
+        "combined": [
+            "100 phrases describing the industrial combined defect on the cable, all in lowercase,with cable?"
+        ],
+        "cut_inner_insulation": [
+            "100 phrases describing the industrial cut_inner_insulation defect on the cable, all in lowercase,with cable?"
+        ],
+        "cut_outer_insulation": [
+            "100 phrases describing the industrial cut_outer_insulation defect on the cable, all in lowercase,with cable?"
+        ],
+        "missing_cable": [
+            "100 phrases describing the industrial missing_cable defect on the cable, all in lowercase,with cable?"
+        ],
+        "missing_wire": [
+            "100 phrases describing the industrial missing_wire defect on the cable, all in lowercase,with cable?"
+        ],
+        "poke_insulation": [
+            "100 phrases describing the industrial poke_insulation defect on the cable, all in lowercase,with cable?"
+        ]
+    },
+    "capsule": {
+        "good": [
+            "100 phrases describing a capsule without industrial defect, all in lowercase,with capsule?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the capsule, all in lowercase,with capsule?"
+        ],
+        "crack": [
+            "100 phrases describing the industrial crack defect on the capsule, all in lowercase,with capsule?"
+        ],
+        "faulty_imprint": [
+            "100 phrases describing the industrial faulty_imprint defect on the capsule, all in lowercase,with capsule?"
+        ],
+        "poke": [
+            "100 phrases describing the industrial poke defect on the capsule, all in lowercase,with capsule?"
+        ],
+        "scratch": [
+            "100 phrases describing the industrial scratch defect on the capsule, all in lowercase,with capsule?"
+        ],
+        "squeeze": [
+            "100 phrases describing the industrial squeeze defect on the capsule, all in lowercase,with capsule?"
+        ]
+    },
+    "carpet": {
+        "good": [
+            "100 phrases describing a carpet without industrial defect, all in lowercase,with carpet?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the carpet, all in lowercase,with carpet?"
+        ],
+        "color": [
+            "100 phrases describing the industrial color defect on the carpet, all in lowercase,with carpet?"
+        ],
+        "cut": [
+            "100 phrases describing the industrial cut defect on the carpet, all in lowercase,with carpet?"
+        ],
+        "hole": [
+            "100 phrases describing the industrial hole defect on the carpet, all in lowercase,with carpet?"
+        ],
+        "metal_contamination": [
+            "100 phrases describing the industrial metal_contamination defect on the carpet, all in lowercase,with carpet?"
+        ],
+        "thread": [
+            "100 phrases describing the industrial thread defect on the carpet, all in lowercase,with carpet?"
+        ]
+    },
+    "grid": {
+        "good": [
+            "100 phrases describing a grid without industrial defect, all in lowercase,with grid?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the grid, all in lowercase,with grid?"
+        ],
+        "bent": [
+            "100 phrases describing the industrial bent defect on the grid, all in lowercase,with grid?"
+        ],
+        "broken": [
+            "100 phrases describing the industrial broken defect on the grid, all in lowercase,with grid?"
+        ],
+        "glue": [
+            "100 phrases describing the industrial glue defect on the grid, all in lowercase,with grid?"
+        ],
+        "metal_contamination": [
+            "100 phrases describing the industrial metal_contamination defect on the grid, all in lowercase,with grid?"
+        ],
+        "thread": [
+            "100 phrases describing the industrial thread defect on the grid, all in lowercase,with grid?"
+        ]
+    },
+    "hazelnut": {
+        "good": [
+            "100 phrases describing a hazelnut without industrial defect, all in lowercase,with hazelnut?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the hazelnut, all in lowercase,with hazelnut?"
+        ],
+        "crack": [
+            "100 phrases describing the industrial crack defect on the hazelnut, all in lowercase,with hazelnut?"
+        ],
+        "cut": [
+            "100 phrases describing the industrial cut defect on the hazelnut, all in lowercase,with hazelnut?"
+        ],
+        "hole": [
+            "100 phrases describing the industrial hole defect on the hazelnut, all in lowercase,with hazelnut?"
+        ],
+        "print": [
+            "100 phrases describing the industrial print defect on the hazelnut, all in lowercase,with hazelnut?"
+        ]
+    },
+    "leather": {
+        "good": [
+            "100 phrases describing a leather without industrial defect, all in lowercase,with leather?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the leather, all in lowercase,with leather?"
+        ],
+        "color": [
+            "100 phrases describing the industrial color defect on the leather, all in lowercase,with leather?"
+        ],
+        "cut": [
+            "100 phrases describing the industrial cut defect on the leather, all in lowercase,with leather?"
+        ],
+        "fold": [
+            "100 phrases describing the industrial fold defect on the leather, all in lowercase,with leather?"
+        ],
+        "glue": [
+            "100 phrases describing the industrial glue defect on the leather, all in lowercase,with leather?"
+        ],
+        "poke": [
+            "100 phrases describing the industrial poke defect on the leather, all in lowercase,with leather?"
+        ]
+    },
+    "metal_nut": {
+        "good": [
+            "100 phrases describing a metal_nut without industrial defect, all in lowercase,with metal_nut?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the metal_nut, all in lowercase,with metal_nut?"
+        ],
+        "bent": [
+            "100 phrases describing the industrial bent defect on the metal_nut, all in lowercase,with metal_nut?"
+        ],
+        "color": [
+            "100 phrases describing the industrial color defect on the metal_nut, all in lowercase,with metal_nut?"
+        ],
+        "flip": [
+            "100 phrases describing the industrial flip defect on the metal_nut, all in lowercase,with metal_nut?"
+        ],
+        "scratch": [
+            "100 phrases describing the industrial scratch defect on the metal_nut, all in lowercase,with metal_nut?"
+        ]
+    },
+    "pill": {
+        "good": [
+            "100 phrases describing a pill without industrial defect, all in lowercase,with pill?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the pill, all in lowercase,with pill?"
+        ],
+        "color": [
+            "100 phrases describing the industrial color defect on the pill, all in lowercase,with pill?"
+        ],
+        "combined": [
+            "100 phrases describing the industrial combined defect on the pill, all in lowercase,with pill?"
+        ],
+        "contamination": [
+            "100 phrases describing the industrial contamination defect on the pill, all in lowercase,with pill?"
+        ],
+        "crack": [
+            "100 phrases describing the industrial crack defect on the pill, all in lowercase,with pill?"
+        ],
+        "faulty_imprint": [
+            "100 phrases describing the industrial faulty_imprint defect on the pill, all in lowercase,with pill?"
+        ],
+        "pill_type": [
+            "100 phrases describing the industrial pill_type defect on the pill, all in lowercase,with pill?"
+        ],
+        "scratch": [
+            "100 phrases describing the industrial scratch defect on the pill, all in lowercase,with pill?"
+        ]
+    },
+    "screw": {
+        "good": [
+            "100 phrases describing a screw without industrial defect, all in lowercase,with screw?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the screw, all in lowercase,with screw?"
+        ],
+        "manipulated_front": [
+            "100 phrases describing the industrial manipulated_front defect on the screw, all in lowercase,with screw?"
+        ],
+        "scratch_head": [
+            "100 phrases describing the industrial scratch_head defect on the screw, all in lowercase,with screw?"
+        ],
+        "scratch_neck": [
+            "100 phrases describing the industrial scratch_neck defect on the screw, all in lowercase,with screw?"
+        ],
+        "thread_side": [
+            "100 phrases describing the industrial thread_side defect on the screw, all in lowercase,with screw?"
+        ],
+        "thread_top": [
+            "100 phrases describing the industrial thread_top defect on the screw, all in lowercase,with screw?"
+        ]
+    },
+    "tile": {
+        "good": [
+            "100 phrases describing a tile without industrial defect, all in lowercase,with tile?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the tile, all in lowercase,with tile?"
+        ],
+        "crack": [
+            "100 phrases describing the industrial crack defect on the tile, all in lowercase,with tile?"
+        ],
+        "glue_strip": [
+            "100 phrases describing the industrial glue_strip defect on the tile, all in lowercase,with tile?"
+        ],
+        "gray_stroke": [
+            "100 phrases describing the industrial gray_stroke defect on the tile, all in lowercase,with tile?"
+        ],
+        "oil": [
+            "100 phrases describing the industrial oil defect on the tile, all in lowercase,with tile?"
+        ],
+        "rough": [
+            "100 phrases describing the industrial rough defect on the tile, all in lowercase,with tile?"
+        ]
+    },
+    "toothbrush": {
+        "good": [
+            "100 phrases describing a toothbrush without industrial defect, all in lowercase,with toothbrush?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the toothbrush, all in lowercase,with toothbrush?"
+        ],
+        "defective": [
+            "100 phrases describing the industrial defective defect on the toothbrush, all in lowercase,with toothbrush?"
+        ]
+    },
+    "transistor": {
+        "good": [
+            "100 phrases describing a transistor without industrial defect, all in lowercase,with transistor?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the transistor, all in lowercase,with transistor?"
+        ],
+        "bent_lead": [
+            "100 phrases describing the industrial bent_lead defect on the transistor, all in lowercase,with transistor?"
+        ],
+        "cut_lead": [
+            "100 phrases describing the industrial cut_lead defect on the transistor, all in lowercase,with transistor?"
+        ],
+        "damaged_case": [
+            "100 phrases describing the industrial damaged_case defect on the transistor, all in lowercase,with transistor?"
+        ],
+        "misplaced": [
+            "100 phrases describing the industrial misplaced defect on the transistor, all in lowercase,with transistor?"
+        ]
+    },
+    "wood": {
+        "good": [
+            "100 phrases describing a wood without industrial defect, all in lowercase,with wood?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the wood, all in lowercase,with wood?"
+        ],
+        "color": [
+            "100 phrases describing the industrial color defect on the wood, all in lowercase,with wood?"
+        ],
+        "combined": [
+            "100 phrases describing the industrial combined defect on the wood, all in lowercase,with wood?"
+        ],
+        "hole": [
+            "100 phrases describing the industrial hole defect on the wood, all in lowercase,with wood?"
+        ],
+        "liquid": [
+            "100 phrases describing the industrial liquid defect on the wood, all in lowercase,with wood?"
+        ],
+        "scratch": [
+            "100 phrases describing the industrial scratch defect on the wood, all in lowercase,with wood?"
+        ]
+    },
+    "zipper": {
+        "good": [
+            "100 phrases describing a zipper without industrial defect, all in lowercase,with zipper?"
+        ],
+        "false_ng": [
+            "100 phrases describing the industrial contamination defect on the zipper, all in lowercase,with zipper?"
+        ],
+        "broken_teeth": [
+            "100 phrases describing the industrial broken_teeth defect on the zipper, all in lowercase,with zipper?"
+        ],
+        "combined": [
+            "100 phrases describing the industrial combined defect on the zipper, all in lowercase,with zipper?"
+        ],
+        "fabric_border": [
+            "100 phrases describing the industrial fabric_border defect on the zipper, all in lowercase,with zipper?"
+        ],
+        "fabric_interior": [
+            "100 phrases describing the industrial fabric_interior defect on the zipper, all in lowercase,with zipper?"
+        ],
+        "rough": [
+            "100 phrases describing the industrial rough defect on the zipper, all in lowercase,with zipper?"
+        ],
+        "split_teeth": [
+            "100 phrases describing the industrial split_teeth defect on the zipper, all in lowercase,with zipper?"
+        ],
+        "squeezed_teeth": [
+            "100 phrases describing the industrial squeezed_teeth defect on the zipper, all in lowercase,with zipper?"
+        ]
+    }
+}

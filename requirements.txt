@@ -1,0 +1,13 @@
+kornia
+torchmetrics==0.10.3
+numpy==1.21.6
+opencv-python==4.6.0.66
+tensorboard
+pandas
+timm==0.6.12
+tqdm==4.64.1
+scikit-learn
+Pillow==9.3.0
+matplotlib==3.5.3
+adeval==1.1.0
+fvcore
